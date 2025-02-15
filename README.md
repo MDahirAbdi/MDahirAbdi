@@ -56,8 +56,8 @@ Here are some of the projects I've worked on:
 ## 📫 **Get in Touch**  
 I'm always open to connecting with fellow developers, collaborating on projects, or discussing new opportunities. You can reach me via:  
 - **Email**: [siyaasi54@gmail.com](mailto:siyaasi54@gmail.com)  
-- **LinkedIn**: [@MDAbdi](https://linkedin.com/in/MDAbdi)  
-- **X (Twitter)**: [@MDAbdi](https://twitter.com/MDAbdi)  
+- **LinkedIn**: [@MDahirAbdi](https://linkedin.com/in/MDahirAbdi)  
+- **X (Twitter)**: [@MDahirAbdi](https://twitter.com/MDahirAbdi)  
 
 ---
 
