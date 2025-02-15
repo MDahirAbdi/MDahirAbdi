@@ -42,25 +42,22 @@ I take pride in writing clean, maintainable code and collaborating effectively w
 ---
 
 ## 🌱 **Current Focus**  
-I am currently expanding my skill set in **back-end and server-side development** to achieve my goal of becoming a **full-stack developer**. I'm exploring technologies like Node.js, Express, and databases (SQL/NoSQL) to build robust and scalable applications.
+I am currently expanding my skill set in **back-end and server-side development** to achieve my goal of becoming a **full-stack developer**. I'm exploring technologies like Node.js, nest js, and databases (SQL/NoSQL) to build robust and scalable applications.
 
 ---
 
 ## 📂 **Projects**  
 Here are some of the projects I've worked on:  
-1. **Mobile Application X** - A React Native app for [brief description].  
-2. **Admin System Y** - A Vue.js-based admin dashboard for [brief description].  
-3. **Project Z** - [Brief description of the project and your role].  
 
-*(Feel free to add links to your projects or repositories here.)*
+
 
 ---
 
 ## 📫 **Get in Touch**  
 I'm always open to connecting with fellow developers, collaborating on projects, or discussing new opportunities. You can reach me via:  
-- **Email**: [Your Email Address]  
-- **LinkedIn**: [Your LinkedIn Profile]  
-- **Portfolio**: [Your Portfolio Website]  
+- **Email**: [siyaasi54@gmail.com]  
+- **LinkedIn**: [@MDAbdi]  
+- **X**: [@MDAbdi]  
 
 ---
 
@@ -75,4 +72,4 @@ I'm always open to connecting with fellow developers, collaborating on projects,
 
 ---
 
-You can customize this template further to include specific project details, links, or additional sections as needed. Let me know if you'd like help with anything else! 😊
+
