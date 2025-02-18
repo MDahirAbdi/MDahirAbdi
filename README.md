@@ -1,75 +1,22 @@
-
-
----
-
-# Mohamud Dahir Abdi  
-**Self-Taught Developer | Front-End & Mobile Developer | Aspiring Full-Stack Developer**
-
-👋 Hi there! I'm Mohamud Dahir Abdi, a passionate and self-taught developer with over 1.5 years of experience in the IT sector. I specialize in front-end and mobile development, and I'm currently expanding my skills to become a full-stack developer. I thrive on building user-friendly, responsive, and scalable applications.
-
----
-
-## 🛠️ **Skills & Expertise**
-
-### Front-End Development  
-- **Languages**: HTML, CSS, JavaScript  
-- **Frameworks/Libraries**: Vue.js, React  
-- **Styling**: Tailwind CSS, CSS3  
-- **Design Tools**: Figma  
-
-### Mobile Development  
-- **Frameworks**: React Native  
-
-### Version Control & Collaboration  
-- **Tools**: Git, GitHub  
-- **Project Management**: Jira  
-
-### Soft Skills  
-- Teamwork & Collaboration  
-- Problem-Solving  
-- Adaptability & Continuous Learning  
-
----
-
-## 🚀 **Experience & Contributions**
-
-In my 1.5 years in the IT sector, I've made significant contributions to several projects, including:  
-- **3+ Medium to Large Mobile Applications**: Developed using React Native, delivering seamless user experiences.  
-- **3+ Admin Systems**: Built with modern front-end technologies like Vue.js and React, ensuring efficient and intuitive interfaces.  
-
-I take pride in writing clean, maintainable code and collaborating effectively with teams to deliver high-quality solutions.
-
----
-
-## 🌱 **Current Focus**  
-I am currently expanding my skill set in **back-end and server-side development** to achieve my goal of becoming a **full-stack developer**. I'm exploring technologies like Node.js, nest js, and databases (SQL/NoSQL) to build robust and scalable applications.
-
----
-
-## 📂 **Projects**  
-Here are some of the projects I've worked on:  
-
-
-
----
-
-## 📫 **Get in Touch**  
-I'm always open to connecting with fellow developers, collaborating on projects, or discussing new opportunities. You can reach me via:  
-- **Email**: [siyaasi54@gmail.com](mailto:siyaasi54@gmail.com)  
-- **LinkedIn**: [@MDahirAbdi](https://linkedin.com/in/MDahirAbdi)  
-- **X (Twitter)**: [@MDahirAbdi](https://twitter.com/MDahirAbdi)  
-
----
-
-## 🎯 **Goals**  
-- Become a proficient full-stack developer.  
-- Contribute to open-source projects.  
-- Continuously learn and grow in the ever-evolving tech industry.  
-
----
-
-⭐ Thank you for visiting my profile! Let's build something amazing together.  
-
----
-
-
+<h1>👋 Hi there! I'm Mohamud Dahir Abdi</h1>
+<p>Self-Taught Developer | Front-End & Mobile Developer | Aspiring Full-Stack Developer</p>
+<h2>🚀 Languages and Tools I Use</h2>
+<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /></a>
+<a target="_blank" href="https://reactnative.dev/img/header_logo.svg" style="display: inline-block;"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
+<h2>⚡️ Where to find me</h2>
+<p><a target="_blank" href="https://twitter.com/@MDahirAbdi" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/@MDahirAbdi" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+<a target="_blank" href="https://www.instagram.com/eco_mohamud" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=MDahirAbdi&show_icons=true&locale=en" alt="MDahirAbdi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MDahirAbdi&" alt="MDahirAbdi" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MDahirAbdi&show_icons=true&locale=en&layout=compact" alt="MDahirAbdi" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MDahirAbdi" alt="MDahirAbdi" /></a></p>
