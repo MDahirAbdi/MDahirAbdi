@@ -1,4 +1,4 @@
-#### 💫 About Me:
+# 💫 About Me:
 👋 Hi there! I'm Mohamud Dahir Abd<br>Self-Taught Developer | Front-End & Mobile Developer | Aspiring Full-Stack Developer
 
 
