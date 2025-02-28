@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Mohamud Dahir Abd<br>Self-Taught Developer | Front-End & Mobile Developer | Aspiring Full-Stack Developer
+👋 Hi there! I'm Mohamud Dahir Abd<br>Self-Taught Developer |Web & Mobile Dev (FRONT-END| Aspiring Full-Stack Developer
 
 
 ## 🌐 Socials:
