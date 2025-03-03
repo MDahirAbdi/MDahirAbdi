@@ -1,4 +1,4 @@
-<div align="center" style="background: linear-gradient(135deg, #1f1c2c, #928dab); padding: 20px; border-radius: 15px; color: green;">
+<div align="center" style="background: linear-gradient(#1f1c2c, #928dab); padding: 20px; border-radius: 15px; color: green;">
 
 
 # 💫 About Me:
