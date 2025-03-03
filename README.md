@@ -1,7 +1,12 @@
 
 # 💫 About Me:
-👋 Hi there! I'm **Mohamud Dahir Abd**  
-Self-Taught Developer | Web & Mobile Dev (Front-End) | Aspiring Full-Stack Developer  
+👋 Hi there! I'm **Mohamud Dahir Abdi**  
+🖥️ **Self-taught** developer (Started coding in Jan 2024)  
+💡 **Front-end focus** (Web & Mobile) – discovered a real passion here  
+🔧 **Learning back-end** to become **full-stack in the near future**  
+📢 **Future goal**: Share my knowledge & create educational content  
+🚀 **Always learning, building, and growing!** 
+
 
 [![Committers Top Badge](https://user-badge.committers.top/somalia/MDahirAbdi.svg)](https://user-badge.committers.top/somalia/MDahirAbdi)
 
@@ -36,7 +41,7 @@ Self-Taught Developer | Web & Mobile Dev (Front-End) | Aspiring Full-Stack Devel
 <div align="center">
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MDahirAbdi&show_icons=true&theme=transparent&hide_border=true)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=MDahirAbdi&theme=transparent&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=MDahirAbdi&theme=transparent&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MDahirAbdi&layout=compact&theme=transparent&hide_border=true)  
 
 </div>
