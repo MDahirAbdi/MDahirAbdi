@@ -57,7 +57,8 @@
 ---
 
 ### 🚀 Profile Views  
-[![](https://visitcount.itsvg.in/api?id=MDahirAbdi&icon=10&color=6)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=MDahirAbdi&label=Profile%20Views&color=blue&style=flat)
+
 
 
 
