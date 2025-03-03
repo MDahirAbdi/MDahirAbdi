@@ -1,6 +1,7 @@
 # 💫 About Me:
 👋 Hi there! I'm Mohamud Dahir Abd<br>Self-Taught Developer |Web & Mobile Dev (FRONT-END| Aspiring Full-Stack Developer
 
+[![committers.top badge](https://user-badge.committers.top/somalia/USERNAME.svg)](https://user-badge.committers.top/somalia/MDahirAbdi)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MDahirAbdi1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eco_mohamud) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@MDahirAbdi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@MDahirAbdi) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/@MDahirAbdi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siyaasi54@gmail.com) 
