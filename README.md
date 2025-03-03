@@ -1,3 +1,5 @@
+<div align="center" style="background: linear-gradient(135deg, #1f1c2c, #928dab); padding: 20px; border-radius: 15px;">
+
 # 💫 About Me:
 👋 Hi there! I'm **Mohamud Dahir Abd**  
 Self-Taught Developer | Web & Mobile Dev (Front-End) | Aspiring Full-Stack Developer  
@@ -52,3 +54,6 @@ Self-Taught Developer | Web & Mobile Dev (Front-End) | Aspiring Full-Stack Devel
 
 ### 🚀 Profile Views  
 [![](https://visitcount.itsvg.in/api?id=MDahirAbdi&icon=10&color=6)](https://visitcount.itsvg.in)
+
+
+</div>
