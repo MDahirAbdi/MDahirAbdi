@@ -6,6 +6,13 @@
 🔧 **Learning back-end** to become **full-stack in the near future**  
 📢 **Future goal**: Share my knowledge & create educational content  
 🚀 **Always learning, building, and growing!** 
+**💫 About Me:**
+👋 Hi, I'm **Mohamud Dahir Abdi**, a self-taught developer who began coding in January 2024.
+💡 Specializing in **front-end** development for **web and mobil**e, with a strong **passion** for crafting seamless user experiences.
+🔧 Currently expanding my expertise in back-end development to transition into full-stack development.
+📢 Committed to sharing knowledge and creating educational content.
+🚀 Constantly learning, building, and evolving in the tech space.
+📱 Experienced in **mobile app deployment** on the **App Store** and **Play Store**, including **EAS** builds.
 
 
 [![Committers Top Badge](https://user-badge.committers.top/somalia/MDahirAbdi.svg)](https://user-badge.committers.top/somalia/MDahirAbdi)
