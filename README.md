@@ -2,14 +2,11 @@
 
 👋 **I'm Mohamud Dahir Abdi**, a **self-taught front-end developer** passionate about building seamless web and mobile experiences.  
 
-💻 **Front-End Development** – Crafting intuitive, responsive UIs  
-📱 **Mobile App Deployment** – App Store, Play Store & EAS builds  
-🚀 **Expanding Skills** – Exploring back-end technologies  
+💻 **Front-End Development** – Crafting intuitive, responsive UIs for Web & Mobile Apps  
+📱 **CI/CD for Mobile Apps** – Automating EAS builds, App Store & Play Store deployments  
+🚀 **Expanding Skills** – Exploring back-end technologies & design  
 
-Always learning, building, and evolving. 🚀  
-
----  
-
+Always learning, building, and evolving. 🚀 
 
 
 
