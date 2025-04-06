@@ -9,8 +9,14 @@
 Always learning, building, and evolving. 🚀 
 
 
+<p align="center">
+  <a href="https://user-badge.committers.top/somalia/MDahirAbdi">
+    <img src="https://user-badge.committers.top/somalia/MDahirAbdi.svg" alt="Committers Top Badge" />
+  </a>
+  &nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=MDahirAbdi&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+</p>
 
-[![Committers Top Badge](https://user-badge.committers.top/somalia/MDahirAbdi.svg)](https://user-badge.committers.top/somalia/MDahirAbdi)
 
 ---
 
@@ -58,8 +64,7 @@ Always learning, building, and evolving. 🚀
 
 ---
 
-### 🚀 Profile Views  
-![Profile Views](https://komarev.com/ghpvc/?username=MDahirAbdi&label=Profile%20Views&color=blue&style=flat)
+
 
 
 
