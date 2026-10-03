@@ -22,14 +22,7 @@ building useful software, and continuously learning.
 
 <br /><br />
 
-<kbd>WEB</kbd> &nbsp; / &nbsp; <kbd>MOBILE</kbd> &nbsp; / &nbsp; <kbd>BACKEND</kbd> &nbsp; / &nbsp; <kbd>AUTOMATION</kbd>
 
-<br /><br />
-
-<a href="#-behind-the-code">About</a> &nbsp; · &nbsp;
-<a href="#-the-toolkit">Toolkit</a> &nbsp; · &nbsp;
-<a href="#-github-in-motion">Activity</a> &nbsp; · &nbsp;
-<a href="#-lets-build-something-useful">Connect</a>
 
 </div>
 
